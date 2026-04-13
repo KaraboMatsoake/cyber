@@ -27,4 +27,4 @@ This is a C# console-based chatbot designed to educate users on basic cybersecur
 - Safe Browsing
 
 ## Author
-Student Project - Cybersecurity Awareness Bot
+Karabo Matsoake ST10252543 - Cybersecurity Awareness Bot
